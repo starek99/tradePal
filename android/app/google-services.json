@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040328388192",
+    "project_id": "tradepal-698d2",
+    "storage_bucket": "tradepal-698d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040328388192:android:9f1b13865eea0c800c9d05",
+        "android_client_info": {
+          "package_name": "com.example.tradepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040328388192-osfbjsqn6e86lqa52ar6fnsabdjrcb23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQsBU6WZ8ZZX4k-2UCqnzFzq12XwqskQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040328388192-osfbjsqn6e86lqa52ar6fnsabdjrcb23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
